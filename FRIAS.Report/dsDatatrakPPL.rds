@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="dsDatatrakPPL">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=AUSLYNCDBSAF01,1434;Initial Catalog=DATATRAK_PPL</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>f9ecf4d2-7900-4a0e-be00-6a9769d5032a</DataSourceID>
+</RptDataSource>
