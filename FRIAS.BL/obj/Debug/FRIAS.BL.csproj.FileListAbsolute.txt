@@ -1,0 +1,261 @@
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\FRIAS.BL.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\FRIAS.BL.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\AjaxControlToolkit.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\DL.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\FRIAS.Common.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\Util.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\AjaxControlToolkit.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\DL.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\FRIAS.Common.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\Util.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\obj\Debug\FRIAS.BL.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.BL\obj\Debug\FRIAS.BL.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\DL.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\Util.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\AjaxControlToolkit.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\DL.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\Util.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.pdb
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.pdb
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\DL.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\Util.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\AjaxControlToolkit.pdb
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\DL.pdb
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.pdb
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\DL.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\Util.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\AjaxControlToolkit.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\DL.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\Util.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\DL.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\Util.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\MySql.Data.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\AjaxControlToolkit.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\DL.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\Util.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_090513\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\DL.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\Util.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\MySql.Data.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\AjaxControlToolkit.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\DL.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\Util.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_TEST_091313\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.pdb
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.pdb
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\DL.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\Util.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\AjaxControlToolkit.pdb
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\DL.pdb
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.pdb
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\Util.pdb
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\DL.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\Util.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\AjaxControlToolkit.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\DL.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\Util.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.pdb
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.BL.pdb
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\DL.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\Util.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\AjaxControlToolkit.pdb
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\DL.pdb
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\FRIAS.Common.pdb
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\Util.pdb
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.pdb
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.csprojResolveAssemblyReference.cache
+D:\dev\areva\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.csprojResolveAssemblyReference.cache
+D:\dev\areva\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.dll
+D:\dev\areva\FRIAS\Projects\FRIAS.BL\obj\Debug\FRIAS.BL.pdb

@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\DL.dll
+bin\Debug\DL.pdb
+bin\Debug\Util.dll
+bin\Debug\Util.pdb
+obj\Debug\DL.dll
+obj\Debug\DL.pdb
+bin\Release\DL.dll
+bin\Release\DL.pdb
+bin\Release\Util.dll
+bin\Release\Util.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DL.dll
+obj\Release\DL.pdb

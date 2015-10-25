@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition">
+  <DataSet Name="">
+    <Query>
+      <DataSourceReference>dsDatatrakONS</DataSourceReference>
+      <CommandText>SELECT DISTINCT POWER_ID, c.COMP AS POWER
+FROM COMPPWR AS p
+  INNER JOIN viewCOMPLIST AS c ON c.COMP_ID = p.POWER_ID
+WHERE c.NSEL = 1
+ORDER BY POWER;</CommandText>
+      <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+    </Query>
+    <Fields>
+      <Field Name="POWER_ID">
+        <DataField>POWER_ID</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="POWER">
+        <DataField>POWER</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>

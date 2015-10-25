@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="dsDatatrakANO">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=AUSLYNCDBSAF01,1434;Initial Catalog=DATATRAK_ANO</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>ced88093-88e8-402e-a67c-1096ff0f60b3</DataSourceID>
+</RptDataSource>

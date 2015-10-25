@@ -1,0 +1,30 @@
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\bin\Debug\Util.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\obj\Debug\Util.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\Util\obj\Debug\Util.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\bin\Debug\Util.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\bin\Debug\Util.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\obj\Debug\Util.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\obj\Debug\Util.pdb
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\Util\bin\Debug\Util.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\Util\bin\Debug\Util.pdb
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\Util\obj\Debug\Util.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\Util\obj\Debug\Util.pdb
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\bin\Debug\Util.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\bin\Debug\Util.pdb
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\obj\Debug\Util.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\obj\Debug\Util.pdb
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+D:\dev\areva\FRIAS\Projects\Util\bin\Debug\Util.dll
+D:\dev\areva\FRIAS\Projects\Util\bin\Debug\Util.pdb
+D:\dev\areva\FRIAS\Projects\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+D:\dev\areva\FRIAS\Projects\Util\obj\Debug\Util.dll
+D:\dev\areva\FRIAS\Projects\Util\obj\Debug\Util.pdb

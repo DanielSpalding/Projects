@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Util.dll
+bin\Debug\Util.pdb
+obj\Debug\Util.dll
+obj\Debug\Util.pdb
+bin\Release\Util.dll
+bin\Release\Util.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Util.dll
+obj\Release\Util.pdb

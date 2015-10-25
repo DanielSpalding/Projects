@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition">
+  <DataSet Name="">
+    <Query>
+      <DataSourceReference>dsDatatrakPPL</DataSourceReference>
+      <CommandText>SELECT DISTINCT NODE_ID, NODE
+FROM         viewCABROUTE
+WHERE     (NODE IS NOT NULL)
+ORDER BY NODE</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="NODE_ID">
+        <DataField>NODE_ID</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="NODE">
+        <DataField>NODE</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>

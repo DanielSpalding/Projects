@@ -1,0 +1,5 @@
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\bin\Release\FRIAS.Common.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\bin\Release\FRIAS.Common.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Release\FRIAS.Common.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Release\FRIAS.Common.pdb

@@ -1,0 +1,10 @@
+bin\Debug\FRIAS.Common.dll
+bin\Debug\FRIAS.Common.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FRIAS.Common.dll
+obj\Debug\FRIAS.Common.pdb
+bin\Release\FRIAS.Common.dll
+bin\Release\FRIAS.Common.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FRIAS.Common.dll
+obj\Release\FRIAS.Common.pdb

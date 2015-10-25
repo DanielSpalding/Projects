@@ -1,0 +1,40 @@
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.Common\bin\Debug\FRIAS.Common.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.Common\bin\Debug\FRIAS.Common.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.Common\obj\Debug\FRIAS.Common.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS\FRIAS.Common\obj\Debug\FRIAS.Common.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.pdb
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.dll
+C:\Documents and Settings\sshaon\My Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.pdb
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.pdb
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.dll
+C:\Documents and Settings\Administrator\My Documents\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.pdb
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.pdb
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.dll
+C:\Users\sshaon\Documents\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.pdb
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.dll
+C:\Users\sshaon.ADOM\Documents\p_DATABASE\FRIAS\FRIAS_051514b\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.pdb
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.pdb
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.dll
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.pdb
+C:\Users\sshaon\Documents\p_DATABASE\FRIAS\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.csprojResolveAssemblyReference.cache
+D:\dev\areva\FRIAS\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.dll
+D:\dev\areva\FRIAS\Projects\FRIAS.Common\bin\Debug\FRIAS.Common.pdb
+D:\dev\areva\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.csprojResolveAssemblyReference.cache
+D:\dev\areva\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.dll
+D:\dev\areva\FRIAS\Projects\FRIAS.Common\obj\Debug\FRIAS.Common.pdb
