@@ -11,6 +11,7 @@ namespace FRIAS.BL
         }
 
         // create manager of a given type
+        // just a comment to test the Git integration.
         public static IFactoryManager CreateManager(Type id)
         {
             IFactoryManager mgr = null;
